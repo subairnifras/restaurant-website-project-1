@@ -553,7 +553,7 @@ section .main_btn:hover i{
 
 .review .review_box .review_card .review_text p{
     text-align: justify
-    line-height: 22px;
+    line-height 22px;
     transition: 0.3s;
 }
 
