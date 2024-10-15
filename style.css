@@ -641,6 +641,12 @@ section .main_btn:hover i{
     text-decoration: none;
 }
 
+/*Review*/
+
+.review_text p{
+    text-align: justify;
+}
+
 
 
 
