@@ -3,7 +3,7 @@
 This is a responsive and visually appealing restaurant website built using **HTML**, **CSS**, and **JavaScript**. The project showcases a clean layout, engaging UI elements, and interactive features suitable for any modern dining establishment.
 
 ## 🚀 Live Demo
-[View Website]((https://github.com/subairnifras/restaurant-website-project-1/)](https://github.com/subairnifras/restaurant-website-project-1/blob/36da6ca65a27ed753f8114da744e96c8ac53b5bb/Screenshot%202025-07-27%20000021.png))  
+[View Website](https://github.com/subairnifras/restaurant-website-project-1/blob/791183d100d86b5b9fb4382631587976f3b75c7b/Screenshot%202025-07-27%20000021.png)  
 
 ## 📸 Features
 
